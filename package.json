@@ -1,0 +1,13 @@
+{
+	"name": "collections-shim-chaos",
+	"devDependencies": {
+		"ava": "^0.22.0",
+		"babel-preset-env": "^1.5.2"
+	},
+	"dependencies": {
+		"collections": "^5.0.7"
+	},
+	"ava": {
+		"babel": "inherit"
+	}
+}
